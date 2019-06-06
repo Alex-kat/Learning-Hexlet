@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+  <title>"Мое резюме"</title>
+  <link rel="stylesheet" href="style 3.css">
+    
+    
+  
+</head>
+<body>
+<div id="header">
+<h1>Алексей Примадонин</h1>
+    <h3>Веб-разработчик</h3>
+    <p>
+      <a href="mailto:alprim@grail.com">alprim@grail.com</a>,
+      <a href="https://github.com/alprim">github.com/alprim</a>
+    </p>
+</div>
+<div id="main">
+  <p >
+  Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)Внутри #main короткий вводный текст (опционально)  <br> <br> djksgfkdjsflkjsg;a;flagn
+  </p>
+
+<div >
+  <h2>Опыт работы</h2>
+  <ul>
+    <p> ООО "блаблабла"</p>
+    <p class="normal" >кто то как то работник</p>
+    <li> 1 place</li>
+    <li> 2 place</li>
+  </ul>
+  <ul>
+    <p> ООО "блублублу"</p>
+    <p class="normal" >кто то как то работник</p>
+    <li> 1 place</li>
+    <li> 2 place</li>
+    <li> 3 place</li>
+  </ul>
+</div>
+<div>
+  <h2> Образование </h2>
+  <ul>
+    <p> ВУЗ Где то как то </p>
+    <p class="normal" >студент</p>
+  </ul>
+  <ul>
+    <p> Курсы Как то где то </p>
+    <p class="normal" >Опять студент</p>
+  </ul>
+</div>
+<div>
+  <h2>Другие навыки и увлечения</h2>
+  <ul>
+    
+    <li> Водка</li>
+    <li> Коньяк</li>
+    <li> Бабы </li>
+  </ul>
+</div>
+</div>
+<div id="footer">
+  <h3> Алексей Примадонин </h3>
+  <p> 
+    Мой адрес не дом и не улица  <a id ="footer" href="mailto:alprim@grail.com">alprim@grail.com</a>
+</p>
+ </div>
+</body>
+</html>
